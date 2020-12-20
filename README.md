@@ -5,5 +5,7 @@ Our project can take in [X, Y] coordinated and draw it onto any surface, with on
 
 Files:
 code.ino - Arduino Uno Code
+
 gantry.stl - Designed in Fusion 360, then 3d printed the pen holding (and weight holding) gantry
+
 python_drawing.py - Python code used to create the example images (created the coordinates for all images drawn
